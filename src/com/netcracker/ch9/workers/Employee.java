@@ -1,4 +1,4 @@
-package ch9.workers;
+package com.netcracker.ch9.workers;
 
 public abstract class Employee {
     private String name;

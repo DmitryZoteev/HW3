@@ -1,4 +1,4 @@
-package ch8;
+package com.netcracker.ch8;
 
 public class ComboLock {
     private int[] code = new int[3];

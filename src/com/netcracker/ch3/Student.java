@@ -1,4 +1,4 @@
-package ch3;
+package com.netcracker.ch3;
 
 public class Student {
     private String name;

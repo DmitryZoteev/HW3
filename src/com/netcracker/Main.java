@@ -1,14 +1,16 @@
-import ch3.*;
-import ch8.ComboLock;
-import ch9.clocks.Clock;
-import ch9.clocks.WorldClock;
-import ch9.chess.Bishop;
-import ch9.chess.Knight;
-import ch9.chess.Rook;
-import ch9.workers.Employee;
-import ch9.workers.HourlyEmployee;
-import ch9.workers.Manager;
-import ch9.workers.SalariedEmployee;
+package com.netcracker;
+
+import com.netcracker.ch3.*;
+import com.netcracker.ch8.ComboLock;
+import com.netcracker.ch9.clocks.Clock;
+import com.netcracker.ch9.clocks.WorldClock;
+import com.netcracker.ch9.chess.Bishop;
+import com.netcracker.ch9.chess.Knight;
+import com.netcracker.ch9.chess.Rook;
+import com.netcracker.ch9.workers.Employee;
+import com.netcracker.ch9.workers.HourlyEmployee;
+import com.netcracker.ch9.workers.Manager;
+import com.netcracker.ch9.workers.SalariedEmployee;
 
 import java.util.Scanner;
 

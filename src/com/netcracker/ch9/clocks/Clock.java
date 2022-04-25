@@ -1,4 +1,4 @@
-package ch9.clocks;
+package com.netcracker.ch9.clocks;
 
 public class Clock {
     protected int hours;

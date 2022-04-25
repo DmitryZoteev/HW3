@@ -1,4 +1,4 @@
-package ch9.chess;
+package com.netcracker.ch9.chess;
 
 import java.util.ArrayList;
 

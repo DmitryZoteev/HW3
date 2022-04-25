@@ -1,4 +1,4 @@
-package ch3;
+package com.netcracker.ch3;
 
 public class CashRegister {
     private double salesTotal;

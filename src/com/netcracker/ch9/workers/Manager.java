@@ -1,4 +1,4 @@
-package ch9.workers;
+package com.netcracker.ch9.workers;
 
 public class Manager extends SalariedEmployee {
     private double weeklyBonus;
